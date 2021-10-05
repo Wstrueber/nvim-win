@@ -10,3 +10,6 @@
 8. Open nvim `nvim c:\dev\nvim\init.lua`
 9. Package the plugins in Neovim via `:PackerCompile, :PackerInstall`
 10. Install parsers in Neovim via `:TSInstall c, :TSInstall cpp`
+
+### Data is stored in:
+  - `C:\Users\{username}\AppData\Local\nvim-data`
