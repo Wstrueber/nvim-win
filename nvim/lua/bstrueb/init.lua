@@ -1,0 +1,6 @@
+require'bstrueb.plugins'
+require'bstrueb.lsp'
+require'bstrueb.completion'
+require'bstrueb.mappings'
+require'bstrueb.telescope'
+require'bstrueb.treesitter'
