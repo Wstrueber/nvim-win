@@ -1,6 +1,6 @@
 local parsers = require'nvim-treesitter.parsers'
 local configs = require'nvim-treesitter.configs'
-
+require 'nvim-treesitter.install'.compilers = { "clang" }
 configs.setup {
   ensure_installed = "maintained",
   playground = {

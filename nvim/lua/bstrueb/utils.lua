@@ -11,7 +11,7 @@ end
 
 function ReloadConfig()
   print('Reloading config')
-  require'plenary.reload'.reload_module('bkegley')
+  require'plenary.reload'.reload_module('bstrueb')
 end
 
 return M
